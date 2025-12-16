@@ -13,8 +13,6 @@ assignees: ''
 
 A clear and concise description of what the bug is.
 
-
-
 - OS: [e.g. Windows/Linux etc...]
 
 ### To Reproduce
